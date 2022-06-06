@@ -1,7 +1,7 @@
-# Platforms Software Charter
+# Priviledged Software Horizontal Committee Charter
 
-The information in this file should be created as part of the group formation and approved by your sponsoring group.  See the [Chairs Best Practices policy](https://docs.google.com/document/d/1rtXskVd7YyFq74tQ2OrInyM_-OQa228R5UZs5Pm3Vz0/) for more details.
+The Priviledged Software Horizontal Committee is chartered with defining the strategy, gap analysis, and prioritizations for all non-user mode RISC-V software as well as governing the development of specifications, software ecosystem components, and best practices for that software. RISC-V does not dictate or own software that integrates with upstream projects. Instead it develops specifications that define things like RISC-specific interfaces or extensions support and works to foster the development and integration of software into their constituent upstream projects.
 
-A good Task Group (TG) charter describes how it achieves filling in a gap defined by the Special Interest Group (SIG) or Committee that spawned it (directly or dotted line). It lists the specific small set of  deliverables it will deliver.
+This committee has four major topic areas: components, interfaces, operating systems, and platforms. Platforms are special and under the direction and guidance of the TSC to develop platform specs that enable distros to have a releases that can run on multiple implementations. Operating systems drive everything from Linux to FreeRTOS to Windows etc. also includes build systems for them (e.g. Yocto, Buildroot, Debootstrap, …). Interfaces include things like SBIs, UEFI, PCI, UCIe, *ABI, … Components consist of things like  Hypervisor, Unified DIscovery, Platform security (works with Security HC). We expects SIGs in each of the four areas to provide long term strategy, gap analysis and prioritization on behalf of the committee.
 
-A SIG is an extension of a Committee, in that its only deliverables are strategy, gaps, and prioritizations, and helping spawn other SIGs or TGs to fill the gaps. A good SIG charter spells out the small set of topic areas their strategy will address along with its responsibilities as laid out in this bullet.
+This Committee heavily interacts with all of the other committees with emphasis with the Pribiledged ISA Committee and the Security and SOC Horizontal committees.
