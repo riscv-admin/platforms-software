@@ -8,4 +8,4 @@ This committee has four major topic areas: components, interfaces, operating sys
 Platforms are special and under the direction and guidance of the TSC to develop platform specs that enable distros to have a releases that can run on multiple implementations.
 Operating systems drive everything from Linux to FreeRTOS to Windows etc. Interfaces include things like SBIs, UEFI, PCI, UCIe, *ABI, … Components consist of things like  Hypervisor, Unified DIscovery, Platform security (works with Security HC). We expects SIGs in each of the four areas to provide long term strategy, gap analysis and prioritization on behalf of the committee.
 
-This Committee heavily interacts with all of the other committees with emphasis with the Pribiledged ISA Committee and the Security and SOC Horizontal committees.
+This Committee heavily interacts with all of the other committees with emphasis with the Privileged ISA Committee and the Security and SOC Horizontal committees.
